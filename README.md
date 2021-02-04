@@ -1,2 +1,3 @@
 # WDSpeedRunMemo
-Watch DogsのRTAルートなどのメモ
+
+Watch Dogs の RTA ルートなどのメモ
